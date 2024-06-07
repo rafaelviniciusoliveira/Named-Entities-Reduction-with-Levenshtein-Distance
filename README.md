@@ -1,2 +1,3 @@
 # Named-Entities-Reduction
-This project uses Levenshtein distace to map and reduce the redundant labels
+
+In previous works, a SpaCy model was traine in orer to identify drug names on legal texts. This project uses Levenshtein distace to map and reduce the redundant labels.
