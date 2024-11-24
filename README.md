@@ -1,3 +1,3 @@
-# Named-Entities-Reduction
+# Redução de Entidades Nomeadas
 
-In previous works, a SpaCy model was trained in order to identify drug names on legal texts. This project uses Levenshtein distace to map and reduce the redundant labels.
+Em trabalhos anteriores, um modelo foi treinado para identificar nomes de fármacos em textos jurídicos. Este projeto utiliza a distância de Levenshtein para mapear e reduzir os rótulos redundantes.
